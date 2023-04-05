@@ -19,7 +19,7 @@
 
 - 📫 Quick reply <a href="mailto:mahamudshefat@gmail.com">**Email Me**</a>
 
-- 📄 Know about my experiences on <a href="www.linkedin.com/in/md-sujon-mahamud-339a1882" target="blank">Linkedin <img alt="likedin" width="15"  src="http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="likedin" /></a> 
+- 📄 Know about my experiences on <a href="https://www.linkedin.com/in/md-sujon-mahamud-339a1882" target="blank">**Linkedin**<img alt="likedin" width="15"  src="http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="likedin" /></a> 
 
 - ⚡ Fun fact **I enjoy hardcore multiplayer games also, I am travelling lover**
 
