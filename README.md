@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **C++, Java, Python and Swift 4**
 
-- 📝 I often write articles on [sujonms.blogspot.com](sujonms.blogspot.com)
+- 📝 I often write articles on <a href="https://sujonms.blogspot.com" target="blank">Blogger <img alt="coding" width="15"  src="https://www.blogger.com/img/logo_blogger_40px.png" alt="sujonms" /></a> 
 
 - 💬 Ask me about **C++, Java, Python and Swift 4**
 
-- 📫 How to reach me **instagram.com/smshifat100**
+- 📫 Quick reply <a href="mailto:mahamudshefat@gmail.com">**Email Me**</a>
 
-- 📄 Know about my experiences [www.linkedin.com/in/md-sujon-mahamud-339a1882](www.linkedin.com/in/md-sujon-mahamud-339a1882)
+- 📄 Know about my experiences on <a href="www.linkedin.com/in/md-sujon-mahamud-339a1882" target="blank">Linkedin <img alt="likedin" width="15"  src="http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="likedin" /></a> 
 
 - ⚡ Fun fact **I enjoy hardcore multiplayer games also, I am travelling lover**
 
@@ -33,7 +33,7 @@
 <a href="https://www.youtube.com/@shefatmahamud2382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shefatmahamud2382" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kmajhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kmajhi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kmajhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kmajhi" height="30" width="40" /></a>
-<a href="/https://rss.com/podcasts/mahamudshefat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/podcasts/mahamudshefat/" height="30" width="40" /></a>
+<a href="https://rss.com/podcasts/mahamudshefat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/podcasts/mahamudshefat/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
