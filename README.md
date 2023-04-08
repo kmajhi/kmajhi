@@ -41,7 +41,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmajhi)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmajhi)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmajhi&" alt="kmajhi" /></p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kmajhi&label=Profile%20views&color=0e75b6&style=flat" alt="kmajhi" /> </p>
