@@ -15,7 +15,7 @@
 
 - 📝 I often write articles on <a href="https://sujonms.blogspot.com" target="blank">Blogger <img alt="coding" width="15"  src="https://www.blogger.com/img/logo_blogger_40px.png" alt="sujonms" /></a> 
 
-- 💬 Ask me about **C++, Java, Python and Swift 4**
+- 💬 Ask me about **C/C++, Java, Python and Swift 4**
 
 - 📫 Quick reply <a href="mailto:mahamudshefat@gmail.com">**Email Me**</a>
 
@@ -41,10 +41,9 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmajhi&show_icons=true&locale=en&layout=compact" alt="kmajhi" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmajhi)]
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmajhi&" alt="kmajhi" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmajhi&label=Profile%20views&color=0e75b6&style=flat" alt="kmajhi" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kmajhi&label=Profile%20views&color=0e75b6&style=flat" alt="kmajhi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmajhi" alt="kmajhi" /></a> </p>
+
