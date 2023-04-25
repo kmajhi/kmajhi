@@ -1,5 +1,5 @@
 ![logo](https://github.com/kmajhi/kmajhi/blob/main/banner%20kmajhi.png)
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sujon+Mahamud" alt="Typing SVG" /></a></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sujon+Mahamud"/></h1>
 <h3 align="center">A passionate Opensource project Contributor from Bangladesh</h3>
 <br>
 <br>
