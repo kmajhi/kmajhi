@@ -19,14 +19,14 @@
 
 - 📫 Quick reply <a href="mailto:mahamudshefat@gmail.com">**Email Me**</a>
 
-- 📄 Know about my experiences on <a href="https://www.linkedin.com/in/md-sujon-mahamud-339a1882" target="blank">**Linkedin**<img alt="likedin" width="15"  src="http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="likedin" /></a> 
+- 📄 Know about my experiences on <a href="https://www.linkedin.com/in/kmajhi" target="blank">**Linkedin**<img alt="likedin" width="15"  src="http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="likedin" /></a> 
 
 - ⚡ Fun fact **I enjoy hardcore multiplayer games also, I am travelling lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shefatsujon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shefatsujon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-sujon-mahamud-339a1882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sujon-mahamud-339a1882" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kmajhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sujon-mahamud-339a1882" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21300390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21300390" height="30" width="40" /></a>
 <a href="https://fb.com/sujon.mahamud.100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujon.mahamud.100" height="30" width="40" /></a>
 <a href="https://instagram.com/kmajhi.de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kmajhi.de" height="30" width="40" /></a>
