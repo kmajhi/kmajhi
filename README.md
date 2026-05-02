@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/kmajhi/kmajhi/blob/main/banner.png" width="100%" />
+  <img src="https://github.com/kmajhi/kmajhi/blob/main/github%20readme%20banner.png" width="100%" />
 </p>
 
 <h1 align="center">
@@ -90,7 +90,7 @@
 </p>
 
 
-## 🐍 Contribution Snake
+## 🐍 
 
 <p align="center">
   <picture>
