@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/kmajhi/kmajhi/blob/main/github%20readme%20banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/kmajhi/kmajhi/main/github%20readme%20banner.png" width="100%" />
 </p>
 
 <h1 align="center">
